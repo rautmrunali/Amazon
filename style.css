@@ -1,0 +1,19 @@
+h2{
+
+border-style: solid;
+padding: 5px;
+border-width: 5px;
+text-align: center;
+background-color: grey;
+border-color: sienna;
+border-radius: 5px; 
+/* to make the corner of the border rounded border-radius is used */
+border-top-right-radius: 9px;
+border-bottom-left-radius: 9px;
+border-bottom-color: black;
+
+}
+
+.form1{
+    border-style: solid ;
+}
